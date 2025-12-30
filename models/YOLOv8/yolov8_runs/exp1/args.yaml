@@ -103,4 +103,4 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: botsort.yaml
-save_dir: C:\Users\Rajdeep Chakraborty\PycharmProjects\fraud_detection_project\models\YOLOv8\yolov8_runs\exp1
+save_dir: c:\Users\SAIF_ALI\OneDrive\文档\Desktop\Fraud-Detection-System\models\YOLOv8\yolov8_runs\exp1
